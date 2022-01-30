@@ -12,3 +12,4 @@ L'utilisation d'un RT (de timeout long), sert à renouveler l’AT, consiste à 
 Pour signer les JWT et la vérification de la signature, on utilise une clé symétrique avec l’algorithme HMAC256.
 
 L’autorisation d’accès aux différentes ressources est gérée selon le rôle des utilisateurs. 
+  
