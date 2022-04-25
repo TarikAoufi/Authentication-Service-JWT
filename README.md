@@ -13,3 +13,4 @@ Pour signer les JWT et la vérification de la signature, on utilise une clé sym
 
 L’autorisation d’accès aux différentes ressources est gérée selon le rôle des utilisateurs. 
   
+ 
