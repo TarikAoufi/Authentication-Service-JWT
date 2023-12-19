@@ -1,7 +1,7 @@
 # Authentication-Service-JWT
 Java, Spring [Boot, Security, Data, Web], JWT, Rest Repositories , MySQL
 
-Objectif : Implémentation d’un service d’authentification Stateless, basée sur Spring Security et JWT (JSON Web Token), pour les API REST.
+Objectif : Implémentation d’un service d’authentification Stateless, basée sur Spring Security et JWT (JSON Web Token), pour les API REST. 
 
 On gère le problème de révocation des tokens, avec l'utilisation de deux tokens : access-token (AT) et refresh-token (RT).
 
